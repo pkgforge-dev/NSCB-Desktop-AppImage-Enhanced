@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=
+Comment=Modern desktop app for Nintendo Switch file operations
+Exec=nscb-desktop
+StartupWMClass=nscb-desktop
+Icon=nscb-desktop
+Name=NSCB Desktop
+Terminal=false
+Type=Application
